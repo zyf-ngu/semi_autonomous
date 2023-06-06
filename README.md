@@ -29,7 +29,18 @@ sudo apt-get install ros-melodic-libg2o
 yolov5_ros
 https://github.com/mats-robotics/yolov5_ros
 
+yolov5
+https://blog.csdn.net/qq_40691868/article/details/114379061
+
+torch and torchvision torcharduio match
+https://blog.csdn.net/qq_40691868/article/details/114379061
+https://blog.csdn.net/jorg_zhao/article/details/106883420
+
+https://blog.csdn.net/shiwanghualuo/article/details/122860521
+
 https://blog.csdn.net/weixin_54721509/article/details/122983561  train
 1.conda create -n semi-auto python=3.8
 2.No module named 'rospkg
+pip install rospkg
+3.
 
