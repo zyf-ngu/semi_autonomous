@@ -42,6 +42,10 @@ https://blog.csdn.net/weixin_54721509/article/details/122983561  train
 1.conda create -n semi-auto python=3.8
 2.No module named 'rospkg
 pip install rospkg
+3.cv_bridge   ImportError: dynamic module does not define module export function (PyInit_cv_bridge_boost)
+https://blog.csdn.net/double_ZZZ/article/details/113254903
+https://blog.csdn.net/qq_41426807/article/details/125636175
+source install/setup.bash --extend
 3.error:cannot declare variable 'g_numpyAllocator' to be of abstract type 'NumpyAllocator'
 https://zhuanlan.zhihu.com/p/356441425
 
