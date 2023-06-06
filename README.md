@@ -42,5 +42,7 @@ https://blog.csdn.net/weixin_54721509/article/details/122983561  train
 1.conda create -n semi-auto python=3.8
 2.No module named 'rospkg
 pip install rospkg
-3.
+3.error:cannot declare variable 'g_numpyAllocator' to be of abstract type 'NumpyAllocator'
+https://zhuanlan.zhihu.com/p/356441425
+
 
