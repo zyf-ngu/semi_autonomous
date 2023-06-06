@@ -23,4 +23,13 @@ sudo apt-get install ros-melodic-mbf-costmap-core
   of the following names:
 8.Could not find libg2o!
 sudo apt-get install ros-melodic-libg2o
-9.
+9.Could not find a package configuration file provided by "catkin_simple"
+
+
+yolov5_ros
+https://github.com/mats-robotics/yolov5_ros
+
+https://blog.csdn.net/weixin_54721509/article/details/122983561  train
+1.conda create -n semi-auto python=3.8
+2.No module named 'rospkg
+
