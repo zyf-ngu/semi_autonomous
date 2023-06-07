@@ -50,3 +50,12 @@ source install/setup.bash --extend
 https://zhuanlan.zhihu.com/p/356441425
 
 
+
+depth_segment//semi-goal
+1.glog be sure v0.4.0 
+1.CMake Error: Could not find cmake module file: /home/mic-730ai/glog/build/CMakeFiles/3.10.2/CMakehttps://github.com/google/glogCompiler.cmake
+最后发现问题出在project（）里面不能有空格。。。。。。。。
+空格删掉最终cmake …成功
+2.
+
+
