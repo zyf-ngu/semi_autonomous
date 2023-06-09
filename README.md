@@ -48,7 +48,8 @@ https://blog.csdn.net/qq_41426807/article/details/125636175
 source install/setup.bash --extend
 3.error:cannot declare variable 'g_numpyAllocator' to be of abstract type 'NumpyAllocator'
 https://zhuanlan.zhihu.com/p/356441425
-
+4.ERROR: Cannot load message class for [自己定义的message]. Are your messages built?
+必须在新打开的Terminal里source workspace下的devel/setup.bash，否则就会在试图rostopic echo自己定义的topic的时候出现这样的错误。
 
 
 depth_segment//semi-goal
